@@ -1,10 +1,9 @@
-## Hi there 👋
-
-👋 Hi, I'm Lehen
+## Hi there, I'm Lehen 👋
 
 AI/ML Engineer | Computer Vision | MLOps | Cloud Native ☁️🚀
 
-
+🛠️ Tech Stack
+<div align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,kubernetes,aws,postgresql,redis,opencv,git,github,linux,bash" width="90%"> </a> </div>
 
 <!--
 **lehen20/lehen20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
