@@ -1,6 +1,10 @@
-## ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Lehen 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi Fellow Geeks, I'm Lehen 
 
-[![Linkedin](https://img.shields.io/badge/-danielcaballero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lehen-zehra/)](https://www.linkedin.com/in/lehen-zehra/) 
+You can connect or contact me here:
+<div>
+  <a href="mailto:zehralehen@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=black"></a>   
+  <a href="https://www.linkedin.com/in/lehen-zehra"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+</div>
 
 AI/ML Engineer | Computer Vision | MLOps | Cloud Native ☁️🚀
 
