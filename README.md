@@ -1,8 +1,10 @@
-## Hi there, I'm Lehen 👋
+## ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Lehen 
+
+[![Linkedin](https://img.shields.io/badge/-danielcaballero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lehen-zehra/)](https://www.linkedin.com/in/lehen-zehra/) 
 
 AI/ML Engineer | Computer Vision | MLOps | Cloud Native ☁️🚀
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 <div align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,kubernetes,aws,postgresql,redis,opencv,git,github,linux,bash" width="90%"> </a> </div>
 
 <!--
