@@ -2,7 +2,7 @@
 
 AI/ML Engineer | Computer Vision | MLOps | Cloud Native ☁️🚀
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 <div align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,kubernetes,aws,postgresql,redis,opencv,git,github,linux,bash" width="90%"> </a> </div>
 
 <!--
